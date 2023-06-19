@@ -24,7 +24,7 @@
         "LANGUAGE": {
             "description": "Bot language",
             "required": true,
-            "value": "EN"
+            "value": "SI"
         },
         "TZ": {
             "description": "Your timezone",
